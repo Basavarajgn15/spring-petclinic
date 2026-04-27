@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: petclinic
-        image: basavab413/petclinic-app:v1
+        image: image: 186014908456.dkr.ecr.us-east-1.amazonaws.com/petclinic-app:v1
         ports:
         - containerPort: 8080
